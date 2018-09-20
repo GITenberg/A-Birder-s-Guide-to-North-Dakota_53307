@@ -1,0 +1,24 @@
+_repo: A-Birder-s-Guide-to-North-Dakota_53307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zimmer, Kevin J.
+    birthdate: 1958
+    gutenberg_agent_id: '47313'
+    url: http://www.gutenberg.org/2009/agents/47313
+description: ''
+gutenberg_issued: '2016-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bird watching -- North Dakota'
+- !lcc 'QL'
+- !lcsh 'Birds -- North Dakota -- Geographical distribution'
+- GITenberg
+title: A Birder's Guide to North Dakota
+url: http://www.gutenberg.org/ebooks/53307
